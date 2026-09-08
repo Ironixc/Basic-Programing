@@ -66,13 +66,13 @@ int main()
     // printf("\n");
 
     //nested loop
-    int a;
-    scanf("%d", &a);
-    for (int i = 0; i < a; i++){
-        for (int j = 0; j <= i; j++){
-            printf("*");
-        }
-        printf("\n");
-    }
-    return 0;
+    // int a;
+    // scanf("%d", &a);
+    // for (int i = 0; i < a; i++){
+    //     for (int j = 0; j <= i; j++){
+    //         printf("*");
+    //     }
+        printf("%.2f", 3.14);
+    // }
+    // return 0;
 }
