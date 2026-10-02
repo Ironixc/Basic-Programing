@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790643711 source:c:\users\rarya\documents\basic programing\practicum\reverse a word\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

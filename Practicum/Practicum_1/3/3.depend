@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790246856 source:c:\users\rarya\documents\basic programing\practicum\practicum_1\3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

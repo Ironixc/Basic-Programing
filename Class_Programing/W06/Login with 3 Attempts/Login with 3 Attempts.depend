@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1790645629 source:c:\users\rarya\documents\basic programing\practicum\login with 3 attempts\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
