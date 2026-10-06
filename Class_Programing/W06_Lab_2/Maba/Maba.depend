@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790933051 source:c:\users\rarya\documents\basic programing\class_programing\w06_lab_2\maba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
